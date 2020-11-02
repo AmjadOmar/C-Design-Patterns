@@ -1,0 +1,16 @@
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\library.dll
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\bin\Debug\netcoreapp3.1\library.pdb
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CopyComplete
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Projects\Design-Patterns\Structural-Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
