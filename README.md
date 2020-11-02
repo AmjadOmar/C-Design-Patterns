@@ -1,1 +1,1 @@
-"# C-Design-Patterns" 
+C# Design-Patterns in .net core
